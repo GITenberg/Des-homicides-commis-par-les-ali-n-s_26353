@@ -1,0 +1,34 @@
+_repo: Des-homicides-commis-par-les-ali-n-s_26353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blanche, Émile
+    alias: Blanche, Emile
+    birthdate: 1820
+    deathdate: 1893
+    gutenberg_agent_id: '31938'
+    url: http://www.gutenberg.org/2009/agents/31938
+description: ''
+gutenberg_bookshelf: FR Droit et Justice
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26353'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Homicide'
+- !lcsh 'Psychology, Pathological'
+- !lcsh 'Forensic psychiatry'
+- !lcsh 'Violent offenders'
+- !lcc 'HV'
+- !lcsh 'Mentally ill offenders'
+- !lcsh 'Dangerously mentally ill'
+title: Des homicides commis par les aliénés
+url: http://www.gutenberg.org/ebooks/26353
